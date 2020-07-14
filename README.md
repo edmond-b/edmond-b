@@ -10,7 +10,7 @@
 
 | Project/GitHub          | Details                                                                                         | Tech                                |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
-|**[Covid_Game]**         | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript | JavaScript, Node.js, React, CSS, HTML, Jest | 
+| **[Covid_Game]** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest | 
 
 ## Tech Stack
 
