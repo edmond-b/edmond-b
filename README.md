@@ -1,16 +1,21 @@
-### Hi there 👋
+# Edmond Bullaj
 
-<!--
-**edmond-b/edmond-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![For hire](https://img.shields.io/badge/Employment_Status-Nil-red)
 
-Here are some ideas to get you started:
+# Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| edmond.b@hotmail.co.uk | [LinkedIn](https://www.linkedin.com/in/edmond-bullaj-2402a811a/) | 
+
+## Projects
+
+## Tech Stack
+
+## Skills
+
+## About me
+
+## Education
+
+## Experience
+
+## Other Interests
