@@ -4,7 +4,7 @@
 
 ![Employment](https://img.shields.io/badge/Employment_Status-I_Need_Money-red)
 
-> <span style="font-family:Dancing Script">
+> <span style="font-family:Papyrus; font-size:4em;">
 > Dear Potential Employer
 > </span>
 
