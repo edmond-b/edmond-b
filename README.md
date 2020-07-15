@@ -4,9 +4,9 @@
 
 ![Employment](https://img.shields.io/badge/Employment_Status-I_Need_Money-red)
 
-> Dear Potential Employer
-> Please hire me>
-> Thank you.
+Dear Potential Employer
+Please hire me.  
+Thank you.  
 
 <h2>
 
