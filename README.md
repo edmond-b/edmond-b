@@ -114,4 +114,4 @@ As a teen I used to play around with animation and 3D modeling but in recent mon
 
 [Website]: https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=React
 [linkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
-[e-mail]: https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white
+[e-mail]: https://img.shields.io/badge/email-orange?style=for-the-badge&logo=gmail&logoColor=white
