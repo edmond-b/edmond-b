@@ -125,7 +125,7 @@ Again this is a big part of any work involving other people.
 
 **Makers Academy**
 (March 2020 - July 2020)
-* 16 week coding bootcamp - one of the top bootcamps in London
+* 16 week coding bootcamp - one of the top bootcamps in London.  
 This was initialy meant to be an on site course however the current situation lead to us having to do the course remotly. I feel like we overcame this very well and the standard of our work was not affected very much. This has however given me the comfidence to say I can work from anywhere.
 
 **Brighton University**
