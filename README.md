@@ -6,9 +6,7 @@
 
 > Dear Potential Employer
 >
-
 - - - - 
-
 ### Contact/Links
 
 [![Website]](https://edmondbullaj.netlify.app/)
@@ -25,9 +23,7 @@
 [![other interests](https://img.shields.io/badge/-Other_Interests-red?style=for-the-badge)](#other-interests)
 
 </div>
-
 - - - - 
-
 ## Projects
 
 | Project/GitHub          | Details                                                                                         | Tech                                |
