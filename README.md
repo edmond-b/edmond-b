@@ -1,8 +1,8 @@
+<div align="center">
+
 # Edmond Bullaj
 
 ![Employment](https://img.shields.io/badge/Employment_Status-Nil-red)
-
-<div align="center">
 
 ### Contact/Links
 
