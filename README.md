@@ -108,7 +108,7 @@ As a teen I used to play around with animation and 3D modeling but in recent mon
 [Covid_Game]: https://github.com/edmond-b/Covid_Game
 [Acebook]: https://github.com/edmond-b/acebook-NO-de-Problem
 [MakersBnb]: https://github.com/edmond-b/Makersbnb
-[Edmond Bullaj personal website]: https://github.com/edmond-b/website
+[Edmond Bullaj (personal website)]: https://github.com/edmond-b/website
 
 <!-- Badge Links -->
 
