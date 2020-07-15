@@ -28,7 +28,7 @@
 ## Projects
 
 | Project/GitHub          | Details                                                                                         | Tech                                |
-| ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
+| :---------------------: | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
 | **[Covid_Game]** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest |
 | **[Acebook]** | A Facebook type site to show off CRUD capabilities. | JavaScript, Node.js, React, Express, MongoDB, CSS, HTML, Jest, Bcrypt, Jasmine, Cypress |
 | **[MakersBnb]** | First project invloving databases and encrypted user data. | Ruby, Sinatra, Capybara, Rspec, PostgreSQL JavaScript, HTML, CSS, Bcrypt |
