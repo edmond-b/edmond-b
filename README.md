@@ -4,7 +4,7 @@
 
 ![Employment](https://img.shields.io/badge/Employment_Status-I_Need_Money-red)
 
-Dear Potential Employer
+Dear Potential Employer  
 Please hire me.  
 Thank you.  
 
