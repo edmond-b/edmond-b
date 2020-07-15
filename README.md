@@ -1,10 +1,12 @@
 # Edmond Bullaj
 
-![](https://img.shields.io/badge/Employment_Status-Nil-red)
+![Employment](https://img.shields.io/badge/Employment_Status-Nil-red)
 
 ## Contact/Links
 
-| [![Website]](Coming Soon) | [![e-mail]](edmond.b@hotmail.co.uk) | [![LinkedIn]](https://www.linkedin.com/in/edmond-bullaj-2402a811a/) |
+[![Website]](Coming Soon)
+[![e-mail]](mailto:edmond.b@hotmail.co.uk)
+[![LinkedIn]](https://www.linkedin.com/in/edmond-bullaj-2402a811a/)
 
 ## Navigation
 
@@ -19,10 +21,10 @@
 
 | Project/GitHub          | Details                                                                                         | Tech                                |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
-| **[Covid_Game](https://github.com/edmond-b/Covid_Game)** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest |
-| **[Acebook](https://github.com/edmond-b/acebook-NO-de-Problem)** | A Facebook type site to show off CRUD capabilities. | JavaScript, Node.js, React, Express, MongoDB, CSS, HTML, Jest, Bcrypt, Jasmine, Cypress |
-| **[MakersBnb](https://github.com/edmond-b/Makersbnb)** | First project invloving databases and encrypted user data. | Ruby, Sinatra, Capybara, Rspec, PostgreSQL JavaScript, HTML, CSS, Bcrypt |
-| **[Edmond Bullaj personal website](https://github.com/edmond-b/website)** | More can be found about me and my work here. | JavaScript, Node.js, React, Express, MongoDB, Netlify |
+| **[Covid_Game]** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest |
+| **[Acebook]** | A Facebook type site to show off CRUD capabilities. | JavaScript, Node.js, React, Express, MongoDB, CSS, HTML, Jest, Bcrypt, Jasmine, Cypress |
+| **[MakersBnb]** | First project invloving databases and encrypted user data. | Ruby, Sinatra, Capybara, Rspec, PostgreSQL JavaScript, HTML, CSS, Bcrypt |
+| **[Edmond Bullaj personal website]** | More can be found about me and my work here. | JavaScript, Node.js, React, Express, MongoDB, Netlify |
 
 ## Skills
 
@@ -32,10 +34,44 @@
 
 ### Technical Ability
 
-| **Languages** | **Technologies** | **Testing Frameworks** | **Principals** | **Other Technologies** |
-| ------------- | ---------------- | ---------------------- | -------------- | ---------------------- |
-| *JavaScript |  |  |  |  |
-| *Ruby |  |  |  |  |
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Framework</th>
+      <th>Principals</th>
+      <th>Other Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>JavaScript</li>
+          <li>Ruby</li>
+          <li>HTML5</li>
+          <li>CSS</li>
+          <li>SQL</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Rails</li>
+          <li>Sinatra</li>
+          <li>Node.js</li>
+          <li>Express</li>
+          <li>jQuery</li>
+          <li>React</li>
+          <li>PostgreSQL</li>
+          <li>MongoDB</li>
+          <li>TravisCI</li>
+          <li>Netlify</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## About me
 
@@ -58,3 +94,15 @@ For many years now I have been doing all types of martial arts from Muay Thai to
 As a teen I used to play around with animation and 3D modeling but in recent months I have taken it abit further and honed my skills with blender and cascadeur.
 
 **_La End_**
+
+<!-- Project Links -->
+
+[Covid_Game]: https://github.com/edmond-b/Covid_Game
+[Acebook]: https://github.com/edmond-b/acebook-NO-de-Problem
+[MakersBnb]: https://github.com/edmond-b/Makersbnb
+[Edmond Bullaj personal website]: https://github.com/edmond-b/website
+
+<!-- Badge Links -->
+
+[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[e-mail]: https://img.shields.io/badge/e-mail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
