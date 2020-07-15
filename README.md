@@ -4,7 +4,7 @@
 
 ![Employment](https://img.shields.io/badge/Employment_Status-Nil-red)
 
----
+<h2>
 
 ### Contact/Links
 
@@ -23,7 +23,7 @@
 
 </div>
 
----
+</h2>
 
 ## Projects
 
