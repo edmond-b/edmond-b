@@ -4,7 +4,7 @@
 
 ## Contact/Links
 
-[![Website]](Coming Soon)
+[![Website]](https://5f0ef202f5aff09c47ab8cf2--trusting-goldberg-559d9f.netlify.app/)
 [![e-mail]](mailto:edmond.b@hotmail.co.uk)
 [![LinkedIn]](https://www.linkedin.com/in/edmond-bullaj-2402a811a/)
 
@@ -104,5 +104,6 @@ As a teen I used to play around with animation and 3D modeling but in recent mon
 
 <!-- Badge Links -->
 
+[Website]: https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=React
 [linkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
-[e-mail]: https://img.shields.io/badge/email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[e-mail]: https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white
