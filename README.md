@@ -8,7 +8,7 @@
 
 ### Contact/Links
 
-[![Website]](https://5f0ef202f5aff09c47ab8cf2--trusting-goldberg-559d9f.netlify.app/)
+[![Website]](https://trusting-goldberg-559d9f.netlify.app/)
 [![e-mail]](mailto:edmond.b@hotmail.co.uk)
 [![LinkedIn]](https://www.linkedin.com/in/edmond-bullaj-2402a811a/)
 
