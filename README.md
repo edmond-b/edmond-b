@@ -4,6 +4,10 @@
 
 ![Employment](https://img.shields.io/badge/Employment_Status-I_Need_Money-red)
 
+> <span style="font-family:Dancing Script">
+Dear Potential Employer
+</span>
+
 <h2>
 
 ### Contact/Links
@@ -121,9 +125,13 @@ Again this is a big part of any work involving other people.
 
 **Makers Academy**
 (March 2020 - July 2020)
+* 16 week coding bootcamp - one of the top bootcamps in London
+This was initialy meant to be an on site course however the current situation lead to us having to do the course remotly. I feel like we overcame this very well and the standard of our work was not affected very much. This has however given me the comfidence to say I can work from anywhere.
 
 **Brighton University**
 (October 2014 - June 2018)
+* Mechanical & Manufacturing Engineering
+Circumstances at the time lead to me leaving during my third year with a certificate of higher education in engineering.
 
 **Ealing, Hammersmith & West London College** 
 (September 2012 - June 2014)
@@ -138,7 +146,7 @@ Again this is a big part of any work involving other people.
 
 ## Other Interests
 
-For many years now I have been doing all types of martial arts from Muay Thai to Ju Jitsu. 
+For many years now I have been doing all types of martial arts from Muay Thai to Ju Jitsu.   
 As a teen I used to play around with animation and 3D modeling but in recent months I have taken it abit further and honed my skills with blender and cascadeur.
 
 **_La End_**
