@@ -104,5 +104,5 @@ As a teen I used to play around with animation and 3D modeling but in recent mon
 
 <!-- Badge Links -->
 
-[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
-[e-mail]: https://img.shields.io/badge/e-mail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[linkedIn]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[e-mail]: https://img.shields.io/badge/email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
