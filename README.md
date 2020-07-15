@@ -5,8 +5,11 @@
 ![Employment](https://img.shields.io/badge/Employment_Status-I_Need_Money-red)
 
 > Dear Potential Employer
->
-- - - - 
+> Please hire me>
+> Thank you.
+
+<h2>
+
 ### Contact/Links
 
 [![Website]](https://edmondbullaj.netlify.app/)
@@ -23,7 +26,9 @@
 [![other interests](https://img.shields.io/badge/-Other_Interests-red?style=for-the-badge)](#other-interests)
 
 </div>
-- - - - 
+
+</h2>
+
 ## Projects
 
 | Project/GitHub          | Details                                                                                         | Tech                                |
