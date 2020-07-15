@@ -126,11 +126,15 @@ Again this is a big part of any work involving other people.
 (October 2014 - June 2018)
 
 **Ealing, Hammersmith & West London College** 
-(September 2012 - June 2014)  
+(September 2012 - June 2014)
+* Physics: B
+* Biology: D
+* Maths: C
+* As - Psychology: A
 
 ## Experience
 
-**_Coming Soon_**
+**_Coming Soon..._**
 
 ## Other Interests
 
