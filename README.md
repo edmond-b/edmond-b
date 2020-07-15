@@ -4,6 +4,8 @@
 
 ![Employment](https://img.shields.io/badge/Employment_Status-Nil-red)
 
+---
+
 ### Contact/Links
 
 [![Website]](https://5f0ef202f5aff09c47ab8cf2--trusting-goldberg-559d9f.netlify.app/)
@@ -20,6 +22,8 @@
 [![other interests](https://img.shields.io/badge/-Other_Interests-red?style=for-the-badge)](#other-interests)
 
 </div>
+
+---
 
 ## Projects
 
