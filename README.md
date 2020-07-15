@@ -2,13 +2,15 @@
 
 ![Employment](https://img.shields.io/badge/Employment_Status-Nil-red)
 
-## Contact/Links
+<div align="center">
+
+### Contact/Links
 
 [![Website]](https://5f0ef202f5aff09c47ab8cf2--trusting-goldberg-559d9f.netlify.app/)
 [![e-mail]](mailto:edmond.b@hotmail.co.uk)
 [![LinkedIn]](https://www.linkedin.com/in/edmond-bullaj-2402a811a/)
 
-## Navigation
+### Navigation
 
 [![projects](https://img.shields.io/badge/-Projects-red?style=for-the-badge)](#projects)
 [![skills](https://img.shields.io/badge/-Skills-red?style=for-the-badge)](#skills)
@@ -16,6 +18,8 @@
 [![education](https://img.shields.io/badge/-Education-red?style=for-the-badge)](#education)
 [![experience](https://img.shields.io/badge/-Experience-red?style=for-the-badge)](#experience)
 [![other interests](https://img.shields.io/badge/-Other_Interests-red?style=for-the-badge)](#other-interests)
+
+</div>
 
 ## Projects
 
