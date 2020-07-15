@@ -31,7 +31,7 @@
 | :---------------------: | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
 | **[Covid_Game]** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest |
 | **[Acebook]** | A Facebook type site to show off CRUD capabilities. | JavaScript, Node.js, React, Express, MongoDB, CSS, HTML, Jest, Bcrypt, Jasmine, Cypress |
-| **[MakersBnb]** | First project invloving databases and encrypted user data. | Ruby, Sinatra, Capybara, Rspec, PostgreSQL JavaScript, HTML, CSS, Bcrypt |
+| **[MakersBnb]** | First project invloving databases and encrypted user data. | Ruby, Sinatra, Capybara, RSpec, PostgreSQL JavaScript, HTML, CSS, Bcrypt |
 | **[Edmond Bullaj (personal website)]** | More can be found about me and my work here. | JavaScript, Node.js, React, Express, MongoDB, Netlify |
 
 ## Skills
@@ -73,6 +73,38 @@
           <li>React</li>
           <li>PostgreSQL</li>
           <li>MongoDB</li>
+          <li>TravisCI</li>
+          <li>Netlify</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>RSpec</li>
+          <li>Jasmine</li>
+          <li>Jest</li>
+          <li>Capybara</li>
+          <li>Cypress</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Test driven develpoment (TDD)</li>
+          <li>Agile workflow</li>
+          <li>Object orientated programing (OOP)</li>
+          <li>Pair programing</li>
+          <li>Continious intergrationg & deployment</li>
+          <li>Model View Controller (MVC)</li>
+          <li>Clean code</li>
+          <li>Git workflow</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Git</li>
+          <li>MongoDB</li>
+          <li>PostgreSQL</li>
+          <li>Blender</li>
+          <li>Unity</li>
           <li>TravisCI</li>
           <li>Netlify</li>
         </ul>
