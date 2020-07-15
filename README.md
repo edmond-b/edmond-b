@@ -38,7 +38,11 @@
 
 ### Flexability
 
+At Makers Academy a large part of the cericulum was focused on working with other developers.   
+
 ### Comunication
+
+Again this is a big part of any work involving other people. 
 
 ### Technical Ability
 
@@ -113,8 +117,6 @@
   </tbody>
 </table>
 
-## About me
-
 ## Education
 
 **Makers Academy**
@@ -127,6 +129,8 @@
 (September 2012 - June 2014)  
 
 ## Experience
+
+**_Coming Soon_**
 
 ## Other Interests
 
