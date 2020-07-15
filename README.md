@@ -2,7 +2,7 @@
 
 # Edmond Bullaj
 
-![Employment](https://img.shields.io/badge/Employment_Status-Nil-red)
+![Employment](https://img.shields.io/badge/Employment_Status-I_Need_Money-red)
 
 <h2>
 
