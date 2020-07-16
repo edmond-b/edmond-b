@@ -77,7 +77,6 @@ Again this is a big part of any work involving other people.
           <li>Sinatra</li>
           <li>Node.js</li>
           <li>Express</li>
-          <li>jQuery</li>
           <li>React</li>
           <li>PostgreSQL</li>
           <li>MongoDB</li>
@@ -113,8 +112,6 @@ Again this is a big part of any work involving other people.
           <li>PostgreSQL</li>
           <li>Blender</li>
           <li>Unity</li>
-          <li>TravisCI</li>
-          <li>Netlify</li>
         </ul>
       </td>
     </tr>
