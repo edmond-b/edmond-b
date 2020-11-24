@@ -36,16 +36,16 @@ I am a big advocate for ‘healthy body, healthy mind’ and have come to embrac
 | :---------------------: | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
 | **[Covid_Game]** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest |
 | **[Acebook]** | A Facebook type site to show off CRUD capabilities. | JavaScript, Node.js, React, Express, MongoDB, CSS, HTML, Jest, Bcrypt, Jasmine, Cypress |
-| **[MakersBnb]** | First project invloving databases and encrypted user data. | Ruby, Sinatra, Capybara, RSpec, PostgreSQL JavaScript, HTML, CSS, Bcrypt |
+| **[MakersBnb]** | First project involving databases and encrypted user data. | Ruby, Sinatra, Capybara, RSpec, PostgreSQL JavaScript, HTML, CSS, Bcrypt |
 | **[Edmond Bullaj (personal website)]** | More can be found about me and my work here. | JavaScript, Node.js, React, Express, MongoDB, Netlify |
 
 ## Skills
 
-### Flexability
+### Flexibility
 
 At Makers Academy a large part of the curriculum was focused on working with other developers. This included working with an Agile workflow and also using pair programming where possible. Although this was something new to me at the time it felt like a more natural way to work as it allows for more flexibility in how work is distributed within teams and having a team member watch over your work makes your workflow run much smoother. My time at Makers was spent working with a diverse group of people that each brought a different skill set to the table. This required me to always take on different roles within the team, on occasion having to lead and other times following the ideas of my peers. As will inevitably happen however I also had to work alone in some instances. With the debugging process ingrained in me through makers I am still able to work through these difficult tasks.          
 
-### Comunication
+### Communication
 
 Again this is a big part of any work involving other people. My time in retail is where I think I gained the most experience here. Having to work with people of all ages and from all walks of life. I have leant that everyone has something to bring to the table and to make the most of everyone's skill set you need to communicate. My experience has shown that a highly skilled team witch lacks communication will always deliver a lesser product than a moderately skilled team with great communication.     
 
@@ -96,11 +96,11 @@ Again this is a big part of any work involving other people. My time in retail i
       </td>
       <td style="vertical-align: top">
         <ul>
-          <li>Test driven develpoment (TDD)</li>
+          <li>Test driven development (TDD)</li>
           <li>Agile workflow</li>
           <li>Object orientated programing (OOP)</li>
           <li>Pair programing</li>
-          <li>Continious intergrationg & deployment</li>
+          <li>Continuous integration & deployment</li>
           <li>Model View Controller (MVC)</li>
           <li>Clean code</li>
           <li>Git workflow</li>
@@ -124,12 +124,12 @@ Again this is a big part of any work involving other people. My time in retail i
 **Makers Academy**
 (March 2020 - July 2020)
 * 16 week coding bootcamp - one of the top bootcamps in London.  
-This was initialy meant to be an on site course however the current situation lead to us having to do the course remotly. I feel like we overcame this very well and the standard of our work was not affected very much. This has however given me the comfidence to say I can work from anywhere.
+This was initially meant to be an on site course however the current situation lead to us having to do the course remotely. I feel like we overcame this very well and the standard of our work was not affected very much. This has however given me the confidence to say I can work from anywhere.
 
 **Brighton University**
 (October 2014 - June 2018)
 * Mechanical & Manufacturing Engineering.
-Circumstances at the time lead to me leaving during my third year with a certificate of higher education in Engineering & Mathmatics.
+Circumstances at the time lead to me leaving during my third year with a certificate of higher education in Engineering & Mathematics.
 
 **Ealing, Hammersmith & West London College**
 (September 2012 - June 2014)
