@@ -125,7 +125,7 @@ Having worked with the public in my previous roles, I had had to adjust my commu
 **Makers Academy**
 (March 2020 - July 2020)
 * 16 week coding bootcamp - one of the top bootcamps in London.  
-This was initially meant to be an on site course however the current situation lead to us having to do the course remotely. I feel like we overcame this very well and the standard of our work was not affected very much. This has however given me the confidence to say I can work from anywhere.
+Due to unfortunate event of COVID-19, Makers was forced to switch to full remote training during my time with them. Despite this, I was able to maintain the same quality of work. This has given me the confidence to work from home as well as the eagerness to get back into the office.
 
 **Brighton University**
 (October 2014 - June 2018)
