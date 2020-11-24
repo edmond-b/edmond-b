@@ -5,8 +5,7 @@
 ![Employment](https://img.shields.io/badge/Employment_Status-Searching-red)
 
 Dear Potential Employer  
-Please hire me.  
-Thank you.  
+I am a newcomer to the tech industry but what I lack in experience I make up for in my soft skills and ability to absorb new information. During my professional career I have worked in a multitude of industries from retail and building maintenance to busy office work in London. Though it may not seem like it, the skills gained from the varied work I have done over the years is transferable to even this new venture in my life. Since starting in tech I have leant that I lean more towards front end work as I feel it allows for more creativity. I do, however, still enjoy the other aspects of full-stack work such as back-end and databases. I am a big advocate for healthy body healthy mind and have come to embrace the growth mindset promoted by Makers and what seems to be the whole of the tech industry.       
 
 <h2>
 
@@ -20,7 +19,6 @@ Thank you.
 
 [![projects](https://img.shields.io/badge/-Projects-red?style=for-the-badge)](#projects)
 [![skills](https://img.shields.io/badge/-Skills-red?style=for-the-badge)](#skills)
-[![about me](https://img.shields.io/badge/-About_Me-red?style=for-the-badge)](#about-me)
 [![education](https://img.shields.io/badge/-Education-red?style=for-the-badge)](#education)
 [![experience](https://img.shields.io/badge/-Experience-red?style=for-the-badge)](#experience)
 [![other interests](https://img.shields.io/badge/-Other_Interests-red?style=for-the-badge)](#other-interests)
@@ -42,11 +40,11 @@ Thank you.
 
 ### Flexability
 
-At Makers Academy a large part of the cericulum was focused on working with other developers. This includeed working with an Agile workflow and also using pair programming when possible.    
+At Makers Academy a large part of the curriculum was focused on working with other developers. This included working with an Agile workflow and also using pair programming where possible. Although this was something new to me at the time it felt like a more natural way to work as it allows for more flexibility in how work is distributed within teams and having a team member watch over your work makes your workflow run much smoother. My time at Makers was spent working with a diverse group of people that each brought a different skill set to the table. This required me to always take on different roles within the team, on occasion having to lead and other times following the ideas of my peers. As will inevitably happen however I also had to work alone in some instances. With the debugging process ingrained in me through makers I am still able to work through these difficult tasks.          
 
 ### Comunication
 
-Again this is a big part of any work involving other people. 
+Again this is a big part of any work involving other people. My time in retail is where I think I gained the most experience here. Having to work with people of all ages and from all walks of life. I have leant that everyone has something to bring to the table and to make the most of everyone's skill set you need to communicate. My experience has shown that a highly skilled team witch lacks communication will always deliver a lesser product than a moderately skilled team with great communication.     
 
 ### Technical Ability
 
@@ -127,10 +125,10 @@ This was initialy meant to be an on site course however the current situation le
 
 **Brighton University**
 (October 2014 - June 2018)
-* Mechanical & Manufacturing Engineering
+* Mechanical & Manufacturing Engineering.
 Circumstances at the time lead to me leaving during my third year with a certificate of higher education in engineering.
 
-**Ealing, Hammersmith & West London College** 
+**Ealing, Hammersmith & West London College**
 (September 2012 - June 2014)
 * Physics: B
 * Biology: D
@@ -143,8 +141,8 @@ Circumstances at the time lead to me leaving during my third year with a certifi
 
 ## Other Interests
 
-For many years now I have been doing all types of martial arts from Muay Thai to Ju Jitsu.   
-As a teen I used to play around with animation and 3D modeling but in recent months I have taken it abit further and honed my skills with blender and cascadeur.
+For many years now I have been doing all types of martial arts from Muay Thai and boxing to Ju Jitsu and wrestling. This is a big part of my life and it has taught me discipline and humility.
+As a teen I used to play around with animation and 3D modeling in my spare time, mostly hard surface modeling at the time as this was easiest. I later took up sketching as I wanted to get better at organic modeling too. In recent years I have taken it further and honed my skills with Blender, doing full scene renders and even trying my had at animation, thought there is some work that needs to be done there.
 
 **_La End_**
 
