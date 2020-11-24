@@ -126,7 +126,7 @@ This was initialy meant to be an on site course however the current situation le
 **Brighton University**
 (October 2014 - June 2018)
 * Mechanical & Manufacturing Engineering.
-Circumstances at the time lead to me leaving during my third year with a certificate of higher education in engineering.
+Circumstances at the time lead to me leaving during my third year with a certificate of higher education in Engineering & Mathmatics.
 
 **Ealing, Hammersmith & West London College**
 (September 2012 - June 2014)
