@@ -38,7 +38,7 @@ I am a big advocate for ‘healthy body, healthy mind’ and have come to embrac
 | Project/GitHub          | Details                                                                                         | Tech                                |
 | :---------------------: | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
 | **[Covid_Game]** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest |
-| **[Acebook]** | A Facebook type site to show off CRUD capabilities. | JavaScript, Node.js, React, Express, MongoDB, CSS, HTML, Jest, Bcrypt, Jasmine, Cypress |
+| **[Acebook]** | A Facebook type site to present CRUD capabilities. | JavaScript, Node.js, React, Express, MongoDB, CSS, HTML, Jest, Bcrypt, Jasmine, Cypress |
 | **[MakersBnb]** | First project involving databases and encrypted user data. | Ruby, Sinatra, Capybara, RSpec, PostgreSQL JavaScript, HTML, CSS, Bcrypt |
 | **[Edmond Bullaj (personal website)]** | More can be found about me and my work here. | JavaScript, Node.js, React, Express, MongoDB, Netlify |
 
