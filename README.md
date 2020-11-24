@@ -4,10 +4,14 @@
 
 ![Employment](https://img.shields.io/badge/Employment_Status-Searching-red)
 
+<div align="left">
+
 I am a curious, dedicated, and immensely hardworking individual. My passion for software engineering means that I will always strive to achieve excellence. I possess an inquisitive attitude and have a natural affinity for communicating with people.  
 As long as I can remember, I have always strived to grasp knowledge that would enable me to create bigger and better things. My problem-solving skills gained from the varied work I have done over the years are transferable and pertinent to this new venture in my life.  
 I find the front-end aspect of software engineering more exciting, however, I still enjoy the other aspects of full-stack work such as back-end and databases.  
 I am a big advocate for ‘healthy body, healthy mind’ and have come to embrace the growth mindset promoted by Makers and the tech industry.       
+
+</div>
 
 <h2>
 
