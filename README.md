@@ -48,7 +48,7 @@ I gained great management and leadership skills as well as the ability to work a
 
 ### Communication
 
-Again this is a big part of any work involving other people. My time in retail is where I think I gained the most experience here. Having to work with people of all ages and from all walks of life. I have leant that everyone has something to bring to the table and to make the most of everyone's skill set you need to communicate. My experience has shown that a highly skilled team witch lacks communication will always deliver a lesser product than a moderately skilled team with great communication.     
+Having worked with the public in my previous roles, I had had to adjust my communication skills to meet the needs of those who were non-verbal, deaf, and various other mental and physical challenges. I have, therefore, learnt to communicate effectively with my employees, managers, and customers in person, online, in writing, and on the phone. My experience has shown that a highly skilled team which lacks communication will always deliver a lesser product than a moderately skilled team with great communication.     
 
 ### Technical Ability
 
