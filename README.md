@@ -2,7 +2,7 @@
 
 # Edmond Bullaj
 
-![Employment](https://img.shields.io/badge/Employment_Status-I_Need_Money-red)
+![Employment](https://img.shields.io/badge/Employment_Status-Searching-red)
 
 Dear Potential Employer  
 Please hire me.  
@@ -42,7 +42,7 @@ Thank you.
 
 ### Flexability
 
-At Makers Academy a large part of the cericulum was focused on working with other developers.   
+At Makers Academy a large part of the cericulum was focused on working with other developers. This includeed working with an Agile workflow and also using pair programming when possible.    
 
 ### Comunication
 
