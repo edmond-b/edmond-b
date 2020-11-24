@@ -42,7 +42,9 @@ I am a big advocate for ‘healthy body, healthy mind’ and have come to embrac
 
 ### Flexibility
 
-At Makers Academy a large part of the curriculum was focused on working with other developers. This included working with an Agile workflow and also using pair programming where possible. Although this was something new to me at the time it felt like a more natural way to work as it allows for more flexibility in how work is distributed within teams and having a team member watch over your work makes your workflow run much smoother. My time at Makers was spent working with a diverse group of people that each brought a different skill set to the table. This required me to always take on different roles within the team, on occasion having to lead and other times following the ideas of my peers. As will inevitably happen however I also had to work alone in some instances. With the debugging process ingrained in me through makers I am still able to work through these difficult tasks.          
+At Makers Academy, part of the curriculum was focused on working with other developers as team. This included working with an Agile workflow and using pair programming where possible. These felt like a natural way to work as it allows for more precision in how work is distributed within teams. Collaborating on a single project using a driver and a navigator allows your workflow to run smoother and more efficiently.
+My time at Makers was spent working with a diverse group of people, each with their own individualized skill set, which required me to always take on a unique role within the team.
+I gained great management and leadership skills as well as the ability to work alone during my time at Makers. Errors are inevitable and can mean the difference between success and failure. I am confident in working through these difficult tasks alone through the debugging skills taught at Makers.          
 
 ### Communication
 
