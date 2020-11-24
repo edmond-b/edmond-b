@@ -4,8 +4,11 @@
 
 ![Employment](https://img.shields.io/badge/Employment_Status-Searching-red)
 
-Dear Potential Employer  
-I am a newcomer to the tech industry but what I lack in experience I make up for in my soft skills and ability to absorb new information. During my professional career I have worked in a multitude of industries from retail and building maintenance to busy office work in London. Though it may not seem like it, the skills gained from the varied work I have done over the years is transferable to even this new venture in my life. Since starting in tech I have leant that I lean more towards front end work as I feel it allows for more creativity. I do, however, still enjoy the other aspects of full-stack work such as back-end and databases. I am a big advocate for healthy body healthy mind and have come to embrace the growth mindset promoted by Makers and what seems to be the whole of the tech industry.       
+Dear Potential Employer
+I am a curious, dedicated, and immensely hardworking individual. My passion for software engineering means that I will always strive to achieve excellence. I possess a positive attitude and have a natural affinity for communicating with people.
+As long as I can remember, I have always strived to grasp knowledge that would enable me to create bigger and better things. My problem-solving skills gained from the varied work I have done over the years are transferable and pertinent to this new venture in my life.
+I find the front-end aspect of software engineering more exciting however I still enjoy the other aspects of full-stack work such as back-end and databases.
+I am a big advocate for ‘healthy body, healthy mind’ and have come to embrace the growth mindset promoted by Makers and the tech industry.       
 
 <h2>
 
