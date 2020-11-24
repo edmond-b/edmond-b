@@ -145,9 +145,9 @@ Mechanical & Manufacturing Engineering: I left Brighton University with a certif
 
 ## Other Interests
 
-In the last 14 years, I have been doing various styles of martial arts including Muay Thai, boxing, Ju Jitsu and wrestling. This is a significant part of my life and it has taught me discipline and humility. 
-Having taken up Golf in the last couple of years, I have found some tranquility (or endless frustration at times!) especially during the difficulties brought to us by the pandemic.
-Spending more time at home has also meant regular Chess games with Father – still waiting to win though.  
+In the last 14 years, I have been doing various styles of martial arts including Muay Thai, boxing, Ju Jitsu and wrestling. This is a significant part of my life and it has taught me discipline and humility.   
+Having taken up Golf in the last couple of years, I have found some tranquility (or endless frustration at times!) especially during the difficulties brought to us by the pandemic.  
+Spending more time at home has also meant regular Chess games with Father – still waiting to win though.    
 As a young adult, I dabbled with animation and hard surface 3D modelling in my spare time. I have since then, taken up sketching to improve my skills in organic modelling too. More recently, I have honed my skills with Blender, doing full scene renders and trying my hand at animation.
 
 **_La End_**
