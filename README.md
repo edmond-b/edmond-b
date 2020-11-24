@@ -129,7 +129,7 @@ This was initialy meant to be an on site course however the current situation le
 **Brighton University**
 (October 2014 - June 2018)
 * Mechanical & Manufacturing Engineering.
-Circumstances at the time lead to me leaving during my third year with a certificate of higher education in engineering.
+Circumstances at the time lead to me leaving during my third year with a certificate of higher education in Engineering & Mathmatics.
 
 **Ealing, Hammersmith & West London College**
 (September 2012 - June 2014)
@@ -145,6 +145,7 @@ Circumstances at the time lead to me leaving during my third year with a certifi
 ## Other Interests
 
 For many years now I have been doing all types of martial arts from Muay Thai and boxing to Ju Jitsu and wrestling. This is a big part of my life and it has taught me discipline and humility.
+
 As a teen I used to play around with animation and 3D modeling in my spare time, mostly hard surface modeling at the time as this was easiest. I later took up sketching as I wanted to get better at organic modeling too. In recent years I have taken it further and honed my skills with Blender, doing full scene renders and even trying my had at animation, thought there is some work that needs to be done there.
 
 **_La End_**
