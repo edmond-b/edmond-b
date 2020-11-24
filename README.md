@@ -4,9 +4,9 @@
 
 ![Employment](https://img.shields.io/badge/Employment_Status-Searching-red)
 
-I am a curious, dedicated, and immensely hardworking individual. My passion for software engineering means that I will always strive to achieve excellence. I possess an inquisitive attitude and have a natural affinity for communicating with people.
-As long as I can remember, I have always strived to grasp knowledge that would enable me to create bigger and better things. My problem-solving skills gained from the varied work I have done over the years are transferable and pertinent to this new venture in my life.
-I find the front-end aspect of software engineering more exciting, however, I still enjoy the other aspects of full-stack work such as back-end and databases.
+I am a curious, dedicated, and immensely hardworking individual. My passion for software engineering means that I will always strive to achieve excellence. I possess an inquisitive attitude and have a natural affinity for communicating with people.  
+As long as I can remember, I have always strived to grasp knowledge that would enable me to create bigger and better things. My problem-solving skills gained from the varied work I have done over the years are transferable and pertinent to this new venture in my life.  
+I find the front-end aspect of software engineering more exciting, however, I still enjoy the other aspects of full-stack work such as back-end and databases.  
 I am a big advocate for ‘healthy body, healthy mind’ and have come to embrace the growth mindset promoted by Makers and the tech industry.       
 
 <h2>
@@ -42,13 +42,14 @@ I am a big advocate for ‘healthy body, healthy mind’ and have come to embrac
 
 ### Flexibility
 
-At Makers Academy, part of the curriculum was focused on working with other developers as team. This included working with an Agile workflow and using pair programming where possible. These felt like a natural way to work as it allows for more precision in how work is distributed within teams. Collaborating on a single project using a driver and a navigator allows your workflow to run smoother and more efficiently.
-My time at Makers was spent working with a diverse group of people, each with their own individualized skill set, which required me to always take on a unique role within the team.
-I gained great management and leadership skills as well as the ability to work alone during my time at Makers. Errors are inevitable and can mean the difference between success and failure. I am confident in working through these difficult tasks alone through the debugging skills taught at Makers.          
+At Makers Academy, part of the curriculum was focused on working with other developers as team. This included working with an Agile workflow and using pair programming where possible. These felt like a natural way to work as it allows for more precision in how work is distributed within teams. Collaborating on a single project using a driver and a navigator allows your workflow to run smoother and more efficiently.  
+My time at Makers was spent working with a diverse group of people, each with their own individualized skill set, which required me to always take on a unique role within the team.  
+I gained great management and leadership skills as well as the ability to work alone during my time at Makers. Errors are inevitable and can mean the difference between success and failure. I am confident in working through these difficult tasks alone through the debugging skills taught at Makers.            
 
 ### Communication
 
-Having worked with the public in my previous roles, I had had to adjust my communication skills to meet the needs of those who were non-verbal, deaf, and various other mental and physical challenges. I have, therefore, learnt to communicate effectively with my employees, managers, and customers in person, online, in writing, and on the phone. My experience has shown that a highly skilled team which lacks communication will always deliver a lesser product than a moderately skilled team with great communication.     
+Having worked with the public in my previous roles, I had had to adjust my communication skills to meet the needs of those who were non-verbal, deaf, and various other mental and physical challenges. I have, therefore, learnt to communicate effectively with my employees, managers, and customers in person, online, in writing, and on the phone.   
+My experience has shown that a highly skilled team which lacks communication will always deliver a lesser product than a moderately skilled team with great communication.     
 
 ### Technical Ability
 
