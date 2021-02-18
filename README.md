@@ -143,8 +143,8 @@ As: Psychology
 
 **Kevin Nye Brickwork & Pointing**    
 *Role: Labourer (Aug 2020 – Dec 2020)*
-*Picking up new skills fast, within the first few weeks I was allowed to point the front of clients homes.
-*Communicating with customers and understanding their needs.
+* Picking up new skills fast, within the first few weeks I was allowed to point the front of clients homes.
+* Communicating with customers and understanding their needs.
 
 **Computer Exchange – CeX**   
 *Role: Store clerk (Sept 2019 – Dec 2019)*
@@ -178,10 +178,10 @@ As: Psychology
 
 ## Other Interests
 
-In the last 14 years, I have been doing various styles of martial arts including Muay Thai, boxing, Ju Jitsu and wrestling. This is a significant part of my life and it has taught me discipline and humility.   
-Having taken up Golf in the last couple of years, I have found some tranquility (or endless frustration at times!) especially during the difficulties brought to us by the pandemic.  
-Spending more time at home has also meant regular Chess games with my Father – still waiting to win though.    
-As a young adult, I dabbled with animation and hard surface 3D modelling in my spare time. I have since then, taken up sketching to improve my skills in organic modelling too. More recently, I have honed my skills with Blender, doing full scene renders and trying my hand at animation.
+**Martial Arts** - For the last 14 years, I have been doing various styles of martial arts including Muay Thai, Boxing, Ju Jitsu and Wrestling. This is a significant part of my life and it has taught me discipline and humility.   
+**3D Design** - From a young age I have dabbled in 3D programs such as Blender, Sketch-Up and Endorphin. Though just a hobby I have become quite adept in both had surface and soft body modelling, at one time I even created renders of plans that were carried out on our home.   
+**Motorcycles and Mechanics** - It’s been a while since I last own a bike but in the time I did I would do all maintenance myself, even going as far as to strip the engine and rebuild it.   
+**Golf** - In the last couple of years I have picked up golf as a hobby. It has been the source of both great pleasure and deep frustration.   
 
 **_La End_**
 
