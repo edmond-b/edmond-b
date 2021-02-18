@@ -114,7 +114,7 @@ The growth mindset promoted in the industry is something I have come to embrace,
   </tbody>
 </table>
 
-### Flexibility   
+### Flexibility    
 At Makers Academy, part of the curriculum was focused on working with other developers as team. This included working with an Agile workflow and using pair programming where possible. These felt like a natural way to work as it allows for more precision in how work is distributed within teams. Collaborating on a single project using a driver and a navigator allows your workflow to run smoother and more efficiently.  
 
 My time at Makers was spent working with a diverse group of people, each with their own individualized skill set, which required me to always take on a unique role within the team.  
@@ -129,7 +129,7 @@ My experience has shown that a highly skilled team which lacks communication wil
 
 **Makers Academy**   
 16-week computer programming bootcamp. One of the top ranked bootcamps in London.  
-Due to unfortunate event of COVID-19, Makers was forced to switch to full remote training during my time with them. Despite this, I was able to maintain the same quality of work. This has given me the confidence to work from home as well as the eagerness to get back into the office.
+*Due to unfortunate event of COVID-19, Makers was forced to switch to full remote training during my time with them. Despite this, I was able to maintain the same quality of work. This has given me the confidence to work from home as well as the eagerness to get back into the office.*
 
 **Brighton University**   
 Mechanical & Manufacturing Engineering.   
@@ -143,8 +143,8 @@ As: Psychology
 
 **Kevin Nye Brickwork & Pointing**    
 *Role: Labourer (Aug 2020 – Dec 2020)*
-* Picking up new skills fast, within the first few weeks I was allowed to point the front of clients homes.
-* Communicating with customers and understanding their needs.
+*Picking up new skills fast, within the first few weeks I was allowed to point the front of clients homes.
+*Communicating with customers and understanding their needs.
 
 **Computer Exchange – CeX**   
 *Role: Store clerk (Sept 2019 – Dec 2019)*
@@ -190,7 +190,7 @@ As a young adult, I dabbled with animation and hard surface 3D modelling in my s
 [Covid_Game]: https://github.com/edmond-b/Covid_Game
 [Acebook]: https://github.com/edmond-b/acebook-NO-de-Problem
 [MakersBnb]: https://github.com/edmond-b/Makersbnb
-[Edmond Bullaj (personal website)]: https://github.com/edmond-b/website
+[Edmond Bullaj (work in progress)]: https://github.com/edmond-b/website
 
 <!-- Badge Links -->
 
