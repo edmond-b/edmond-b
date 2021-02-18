@@ -44,18 +44,7 @@ I am a big advocate for ‘healthy body, healthy mind’ and have come to embrac
 
 ## Skills
 
-### Flexibility
-
-At Makers Academy, part of the curriculum was focused on working with other developers as team. This included working with an Agile workflow and using pair programming where possible. These felt like a natural way to work as it allows for more precision in how work is distributed within teams. Collaborating on a single project using a driver and a navigator allows your workflow to run smoother and more efficiently.  
-My time at Makers was spent working with a diverse group of people, each with their own individualized skill set, which required me to always take on a unique role within the team.  
-I gained great management and leadership skills as well as the ability to work alone during my time at Makers. Errors are inevitable and can mean the difference between success and failure. I am confident in working through these difficult tasks alone through the debugging skills taught at Makers.            
-
-### Communication
-
-Having worked with the public in my previous roles, I had had to adjust my communication skills to meet the needs of those who were non-verbal, deaf, and various other mental and physical challenges. I have, therefore, learnt to communicate effectively with my employees, managers, and customers in person, online, in writing, and on the phone.   
-My experience has shown that a highly skilled team which lacks communication will always deliver a lesser product than a moderately skilled team with great communication.     
-
-### Technical Ability
+### Technical Skills
 
 <table>
   <thead>
@@ -125,28 +114,36 @@ My experience has shown that a highly skilled team which lacks communication wil
   </tbody>
 </table>
 
+### Flexibility
+
+At Makers Academy, part of the curriculum was focused on working with other developers as team. This included working with an Agile workflow and using pair programming where possible. These felt like a natural way to work as it allows for more precision in how work is distributed within teams. Collaborating on a single project using a driver and a navigator allows your workflow to run smoother and more efficiently.  
+My time at Makers was spent working with a diverse group of people, each with their own individualized skill set, which required me to always take on a unique role within the team.  
+I gained great management and leadership skills as well as the ability to work alone during my time at Makers. Errors are inevitable and can mean the difference between success and failure. I am confident in working through these difficult tasks alone through the debugging skills taught at Makers.            
+
+### Communication
+
+Having worked with the public in my previous roles, I had had to adjust my communication skills to meet the needs of those who were non-verbal, deaf, and various other mental and physical challenges. I have, therefore, learnt to communicate effectively with my employees, managers, and customers in person, online, in writing, and on the phone.   
+My experience has shown that a highly skilled team which lacks communication will always deliver a lesser product than a moderately skilled team with great communication.     
+
 ## Education
 
 **Makers Academy**
-(March 2020 - July 2020)
-* 16-week computer programming bootcamp; one of the top ranked bootcamps in London.  
+16-week computer programming bootcamp. One of the top ranked bootcamps in London.  
 Due to unfortunate event of COVID-19, Makers was forced to switch to full remote training during my time with them. Despite this, I was able to maintain the same quality of work. This has given me the confidence to work from home as well as the eagerness to get back into the office.
 
 **Brighton University**
-(October 2014 - June 2018)
-* Mechanical & Manufacturing Engineering.
-Mechanical & Manufacturing Engineering: I left Brighton University with a certificate of higher education in Engineering & Mathematics.
+Mechanical & Manufacturing Engineering.
+
+I left Brighton University with a certificate of higher education in Engineering & Mathematics.
 
 **Ealing, Hammersmith & West London College**
-(September 2012 - June 2014)
-* Physics: B
-* Biology: D
-* Maths: C
-* As - Psychology: A
+A-Levels: Mathematics - Biology - Physics
+
+As: Psychology
 
 ## Experience
 
-**_Coming Soon..._**
+
 
 ## Other Interests
 
