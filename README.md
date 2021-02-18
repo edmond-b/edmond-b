@@ -44,7 +44,7 @@ I am a big advocate for ‘healthy body, healthy mind’ and have come to embrac
 
 ## Skills
 
-### Technical Skills
+### Technical Stack
 
 <table>
   <thead>
@@ -128,21 +128,55 @@ My experience has shown that a highly skilled team which lacks communication wil
 ## Education
 
 **Makers Academy**
+
 16-week computer programming bootcamp. One of the top ranked bootcamps in London.  
 Due to unfortunate event of COVID-19, Makers was forced to switch to full remote training during my time with them. Despite this, I was able to maintain the same quality of work. This has given me the confidence to work from home as well as the eagerness to get back into the office.
 
 **Brighton University**
+
 Mechanical & Manufacturing Engineering.
 
 I left Brighton University with a certificate of higher education in Engineering & Mathematics.
 
 **Ealing, Hammersmith & West London College**
+
 A-Levels: Mathematics - Biology - Physics
 
 As: Psychology
 
 ## Experience
 
+Kevin Nye Brickwork & Pointing
+Role: Labourer (Aug 2020 – Dec 2020)
+o	Picking up new skills fast, within the first few weeks I was allowed to point the front of clients homes.
+o	Communicating with customers and understanding their needs.
+Computer Exchange – CeX
+Role: Store clerk (Sept 2019 – Dec 2019)
+o	Communication skills from interacting with customers.
+o	Presentation and product management from maintaining stock and displays.
+o	Keeping well informed about new technologies to provide reliable information for customers
+K Papastamatis Building Contractors Ltd
+Role: Labourer (July 2019 – Sept 2019)
+o	Adapting quickly to change, working on a large-scale project meant every week brought a new challenge as the project progressed.
+o	Management skills from maintaining inventory and material orders.
+o	Working well with different teams since I was constantly moving to where I was needed the most.
+Specsavers Opticians
+Role: Clinical Assistant (May 2017 – June 2019)
+o	Managing the clinic by means of patient arrivals, appointment booking and cancellations.
+o	Ensuring patients are referred correctly and efficiently from one department to another.
+o	Conduct preliminary examination on all patients in preparation for a full eye examination
+o	Diary management with complex patients that require extra time for in-depth reviews.
+
+Brook House
+Role: Building maintenance (Summer 2014)
+o	Learning to use SCS system to keep track of air, water, heating and electrical systems in the building
+o	Time and task organization, managing maintenance & repair schedule for building systems.
+
+Celebrity Talent Academy – CTA                                                                                                                
+Role: Office assistant (Jan 2011 – Sep 2013)
+o	Communicating with students and parents of candidates in person and over the phone.
+o	Writing the academy’s evaluation forms for potential future candidates.
+o	Managing the flow of candidates throughout sign in and audition process.
 
 
 ## Other Interests
