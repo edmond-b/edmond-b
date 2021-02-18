@@ -35,7 +35,7 @@ The growth mindset promoted in the industry is something I have come to embrace,
 
 ## Projects
 
-| Project/GitHub          | Details                                                                                         | Tech                                |
+| Project/GitHub          | Details                                                                                         | Tech Used                                |
 | :---------------------: | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
 | **[Edmond Bullaj (work in progress)]** | More can be found about me and my work here. | JavaScript, Node.js, React, Express, MongoDB, Netlify |
 | **[Covid_Game]** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest |
