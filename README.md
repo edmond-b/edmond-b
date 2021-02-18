@@ -6,7 +6,7 @@
 
 <div align="left">
 
-I am a curious, dedicated, and immensely hardworking individual. My passion for software engineering means that I will always strive to achieve excellence. I possess an inquisitive attitude and have a natural affinity for communicating with people.  
+I am a curious, dedicated, and immensely hardworking individual. My passion for software engineering means that I will always strive to achieve excellence. I possess a pragmatic attitude and have a natural affinity for communicating with people.  
 As long as I can remember, I have always strived to grasp knowledge that would enable me to create bigger and better things. My problem-solving skills gained from the varied work I have done over the years are transferable and pertinent to this new venture in my life.  
 I find the front-end aspect of software engineering more exciting, however, I still enjoy the other aspects of full-stack work such as back-end and databases.  
 I am a big advocate for ‘healthy body, healthy mind’ and have come to embrace the growth mindset promoted by Makers and the tech industry.       
@@ -37,10 +37,10 @@ I am a big advocate for ‘healthy body, healthy mind’ and have come to embrac
 
 | Project/GitHub          | Details                                                                                         | Tech                                |
 | :---------------------: | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **[Edmond Bullaj (personal website)]** | More can be found about me and my work here. | JavaScript, Node.js, React, Express, MongoDB, Netlify |
 | **[Covid_Game]** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest |
 | **[Acebook]** | A Facebook type site to present CRUD capabilities. | JavaScript, Node.js, React, Express, MongoDB, CSS, HTML, Jest, Bcrypt, Jasmine, Cypress |
 | **[MakersBnb]** | First project involving databases and encrypted user data. | Ruby, Sinatra, Capybara, RSpec, PostgreSQL JavaScript, HTML, CSS, Bcrypt |
-| **[Edmond Bullaj (personal website)]** | More can be found about me and my work here. | JavaScript, Node.js, React, Express, MongoDB, Netlify |
 
 ## Skills
 
@@ -149,7 +149,7 @@ As: Psychology
 
 In the last 14 years, I have been doing various styles of martial arts including Muay Thai, boxing, Ju Jitsu and wrestling. This is a significant part of my life and it has taught me discipline and humility.   
 Having taken up Golf in the last couple of years, I have found some tranquility (or endless frustration at times!) especially during the difficulties brought to us by the pandemic.  
-Spending more time at home has also meant regular Chess games with Father – still waiting to win though.    
+Spending more time at home has also meant regular Chess games with my Father – still waiting to win though.    
 As a young adult, I dabbled with animation and hard surface 3D modelling in my spare time. I have since then, taken up sketching to improve my skills in organic modelling too. More recently, I have honed my skills with Blender, doing full scene renders and trying my hand at animation.
 
 **_La End_**
