@@ -146,34 +146,34 @@ As: Psychology
 
 ## Experience
 
-Kevin Nye Brickwork & Pointing
-Role: Labourer (Aug 2020 – Dec 2020)
+**Kevin Nye Brickwork & Pointing**
+*Role: Labourer (Aug 2020 – Dec 2020)*
 o	Picking up new skills fast, within the first few weeks I was allowed to point the front of clients homes.
 o	Communicating with customers and understanding their needs.
-Computer Exchange – CeX
-Role: Store clerk (Sept 2019 – Dec 2019)
+**Computer Exchange – CeX**
+*Role: Store clerk (Sept 2019 – Dec 2019)*
 o	Communication skills from interacting with customers.
 o	Presentation and product management from maintaining stock and displays.
 o	Keeping well informed about new technologies to provide reliable information for customers
-K Papastamatis Building Contractors Ltd
-Role: Labourer (July 2019 – Sept 2019)
+**K Papastamatis Building Contractors Ltd**
+*Role: Labourer (July 2019 – Sept 2019)*
 o	Adapting quickly to change, working on a large-scale project meant every week brought a new challenge as the project progressed.
 o	Management skills from maintaining inventory and material orders.
 o	Working well with different teams since I was constantly moving to where I was needed the most.
-Specsavers Opticians
-Role: Clinical Assistant (May 2017 – June 2019)
+**Specsavers Opticians**
+*Role: Clinical Assistant (May 2017 – June 2019)*
 o	Managing the clinic by means of patient arrivals, appointment booking and cancellations.
 o	Ensuring patients are referred correctly and efficiently from one department to another.
 o	Conduct preliminary examination on all patients in preparation for a full eye examination
 o	Diary management with complex patients that require extra time for in-depth reviews.
 
-Brook House
-Role: Building maintenance (Summer 2014)
+**Brook House**
+*Role: Building maintenance (Summer 2014)*
 o	Learning to use SCS system to keep track of air, water, heating and electrical systems in the building
 o	Time and task organization, managing maintenance & repair schedule for building systems.
 
-Celebrity Talent Academy – CTA                                                                                                                
-Role: Office assistant (Jan 2011 – Sep 2013)
+**Celebrity Talent Academy – CTA**                                                                                                                
+*Role: Office assistant (Jan 2011 – Sep 2013)*
 o	Communicating with students and parents of candidates in person and over the phone.
 o	Writing the academy’s evaluation forms for potential future candidates.
 o	Managing the flow of candidates throughout sign in and audition process.
