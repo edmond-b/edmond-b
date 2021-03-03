@@ -37,7 +37,8 @@ The growth mindset promoted in the industry is something I have come to embrace,
 
 | Project/GitHub          | Details                                                                                         | Tech Used                                |
 | :---------------------: | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
-| **[Edmond Bullaj (work in progress)]** | More can be found about me and my work here. | JavaScript, Node.js, React, Express, MongoDB, Netlify |
+| **[New Portfolio Site (work in progress)]** | New site aiming for simplicity | HTML, CSS, JavaScript |
+| **[Edmond Bullaj (old site)]** | More can be found about me and my work here. | JavaScript, Node.js, React, Netlify |
 | **[Covid_Game]** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest |
 | **[Acebook]** | A Facebook type site to present CRUD capabilities. | JavaScript, Node.js, React, Express, MongoDB, CSS, HTML, Jest, Bcrypt, Jasmine, Cypress |
 | **[MakersBnb]** | First project involving databases and encrypted user data. | Ruby, Sinatra, Capybara, RSpec, PostgreSQL JavaScript, HTML, CSS, Bcrypt |
@@ -91,12 +92,12 @@ The growth mindset promoted in the industry is something I have come to embrace,
       </td>
       <td style="vertical-align: top">
         <ul>
-          <li>Test driven development (TDD)</li>
           <li>Agile workflow</li>
           <li>Object orientated programing (OOP)</li>
           <li>Pair programing</li>
           <li>Continuous integration & deployment</li>
           <li>Model View Controller (MVC)</li>
+          <li>Test driven development (TDD)</li>
           <li>Clean code</li>
           <li>Git workflow</li>
         </ul>
@@ -191,6 +192,7 @@ As: Psychology
 [Acebook]: https://github.com/edmond-b/acebook-NO-de-Problem
 [MakersBnb]: https://github.com/edmond-b/Makersbnb
 [Edmond Bullaj (work in progress)]: https://github.com/edmond-b/website
+[New Portfolio Site]: https://github.com/edmond-b/pure-website
 
 <!-- Badge Links -->
 
