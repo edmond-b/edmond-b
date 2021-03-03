@@ -191,8 +191,8 @@ As: Psychology
 [Covid_Game]: https://github.com/edmond-b/Covid_Game
 [Acebook]: https://github.com/edmond-b/acebook-NO-de-Problem
 [MakersBnb]: https://github.com/edmond-b/Makersbnb
-[Edmond Bullaj (work in progress)]: https://github.com/edmond-b/website
-[New Portfolio Site]: https://github.com/edmond-b/pure-website
+[Edmond Bullaj (old site)]: https://github.com/edmond-b/website
+[New Portfolio Site (work in progress)]: https://github.com/edmond-b/pure-website
 
 <!-- Badge Links -->
 
