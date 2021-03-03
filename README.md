@@ -42,7 +42,7 @@ The growth mindset promoted in the industry is something I have come to embrace,
 | **[Covid Game]** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest |
 | **[Acebook]** | A Facebook type site to present CRUD capabilities. | JavaScript, Node.js, React, Express, MongoDB, CSS, HTML, Jest, Bcrypt, Jasmine, Cypress |
 | **[MakersBnb]** | First project involving databases and encrypted user data. | Ruby, Sinatra, Capybara, RSpec, PostgreSQL JavaScript, HTML, CSS, Bcrypt |
-| **[Nokemon]** | A Pokemon clone showing ruby back-end capabilities and some CSS. | Ruby, Sinatra, Capybara, Rspec, HTML, CSS |
+| **[Nokemon (work in progress)]** | A Pokemon clone showing ruby back-end capabilities and some CSS. | Ruby, Sinatra, Capybara, Rspec, HTML, CSS |
 
 ## Skills
 
@@ -194,7 +194,7 @@ As: Psychology
 [MakersBnb]: https://github.com/edmond-b/Makersbnb
 [Old Portfolio Site]: https://github.com/edmond-b/website
 [New Portfolio Site (work in progress)]: https://github.com/edmond-b/pure-website
-[Nokemon]: https://github.com/edmond-b/Battle-2.0
+[Nokemon (work in progress)]: https://github.com/edmond-b/Battle-2.0
 
 <!-- Badge Links -->
 
