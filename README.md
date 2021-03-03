@@ -37,7 +37,7 @@ The growth mindset promoted in the industry is something I have come to embrace,
 
 | Project/GitHub          | Details                                                                                         | Tech Used                                |
 | :---------------------: | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
-| **[New Portfolio Site (work in progress)]** | New site aiming for simplicity | HTML, CSS, JavaScript |
+| **[New Portfolio Site (work in progress)]** | New site aiming for simplicity with reactive CSS. | HTML, CSS, JavaScript |
 | **[Old Portfolio Site]** | More can be found about me and my work here. | JavaScript, Node.js, React, Netlify |
 | **[Covid_Game]** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest |
 | **[Acebook]** | A Facebook type site to present CRUD capabilities. | JavaScript, Node.js, React, Express, MongoDB, CSS, HTML, Jest, Bcrypt, Jasmine, Cypress |
