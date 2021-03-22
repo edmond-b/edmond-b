@@ -71,7 +71,6 @@ The growth mindset promoted in the industry is something I have come to embrace,
       </td>
       <td style="vertical-align: top">
         <ul>
-          <li>Rails</li>
           <li>Sinatra</li>
           <li>Node.js</li>
           <li>Express</li>
@@ -80,6 +79,7 @@ The growth mindset promoted in the industry is something I have come to embrace,
           <li>MongoDB</li>
           <li>TravisCI</li>
           <li>Netlify</li>
+	  <li>Rails</li>
         </ul>
       </td>
       <td style="vertical-align: top">
