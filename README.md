@@ -17,7 +17,7 @@ The growth mindset promoted in the industry is something I have come to embrace,
 
 ### Contact/Links
 
-[![Website]](https://edmondbullaj.netlify.app/)
+[![Website]](https://www.edmondbullaj.com/)
 [![e-mail]](mailto:edmond.b@hotmail.co.uk)
 [![LinkedIn]](https://www.linkedin.com/in/edmond-bullaj-2402a811a/)
 
