@@ -37,7 +37,7 @@ The growth mindset promoted in the industry is something I have come to embrace,
 
 | Project/GitHub          | Details                                                                                         | Tech Used                                |
 | :---------------------: | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
-| **[New Portfolio Site]** | New site aiming for simplicity with reactive CSS. | HTML, CSS, JavaScript |
+| **[Portfolio Website]** | New site aiming for simplicity with reactive CSS. | HTML, CSS, JavaScript |
 | **[Covid Game]** | Final project at Makers Academy. A Super Mario style side scroller made with vanilla JavaScript. | JavaScript, Node.js, React, CSS, HTML, Jest |
 | **[Acebook]** | A Facebook type site to present CRUD capabilities. | JavaScript, Node.js, React, Express, MongoDB, CSS, HTML, Jest, Bcrypt, Jasmine, Cypress |
 | **[MakersBnb]** | First project involving databases and encrypted user data. | Ruby, Sinatra, Capybara, RSpec, PostgreSQL JavaScript, HTML, CSS, Bcrypt |
@@ -192,11 +192,11 @@ As: Psychology
 [Acebook]: https://github.com/edmond-b/acebook-NO-de-Problem
 [MakersBnb]: https://github.com/edmond-b/Makersbnb
 [Old Portfolio Site]: https://github.com/edmond-b/website
-[New Portfolio Site]: https://github.com/edmond-b/pure-website
+[Portfolio Website]: https://github.com/edmond-b/pure-website
 [Nokemon (work in progress)]: https://github.com/edmond-b/Battle-2.0
 
 <!-- Badge Links -->
 
-[Website]: https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=HTML&logoColor=red
+[Website]: https://img.shields.io/badge/Website-grey?style=for-the-badge&logo=Html5&logoColor=red
 [linkedIn]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin
 [e-mail]: https://img.shields.io/badge/email-orange?style=for-the-badge&logo=gmail&logoColor=white
